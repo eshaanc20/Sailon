@@ -100,7 +100,7 @@ class App extends Component{
                   variant="outlined"
                 /><br></br>
                 <TextField
-                  id="finalLat"
+                  id="finalLat
                   label="Final Latitude"
                   margin="normal"
                   onChange={finalLat.bind(this)}
