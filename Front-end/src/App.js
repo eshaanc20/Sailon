@@ -120,7 +120,7 @@ class App extends Component{
               </Button>
               <p className = "spacer"></p>
               <LinearProgress color="secondary" variant="query" />
-            </Paper
+            </Paper>
           </Grid>
         </body>
       </div>
