@@ -53,7 +53,7 @@ var longFinal = 0;
 class App extends Component{
   render(){
     return(
-      <div className="screen2">
+      <div className="screen">
         <header>
           <AppBar position="static">
             <Toolbar className="toolBar">
