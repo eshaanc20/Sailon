@@ -1,5 +1,5 @@
 # Sailon
-Optimal path find system for boats that incorporates upadted wind and water current data.
+Optimal path find system for boats that incorporates updated wind and water current data.
 
 Status: Connecting front-end with back-end
     
