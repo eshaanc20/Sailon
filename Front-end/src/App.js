@@ -73,7 +73,7 @@ class App extends Component{
             </Paper>
             <Paper className="infoPaper">
               <div className="infoText">
-                <h4>Sailon's Boat Routing System</h4>
+                <h4>Sailon Boat Routing System</h4>
                 <p>Sailon is a path finding algorithm that provides the most efficient path between 
                    two locations for boats. This system incorporates and considers updated wind and 
                    water current data to determine the route. An initial and final destination coordinates 
