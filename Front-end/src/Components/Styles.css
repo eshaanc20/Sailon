@@ -1,0 +1,60 @@
+.gridContainer {
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    direction:"column";
+    justify-content: center;
+    margin-Top: 50px;
+}
+.inputPaper{
+    text-align: center;
+    justify-content: center;  
+}
+.button {
+    width: 60%;
+}
+.infoPaper {
+    width: 300px;
+    text-align: center;
+    height: 80%;
+    margin: 1px;
+    margin: 1%;
+    background-Image: url('gradient.png');
+}
+.instruction{
+    width: 320px;
+}
+.spacer{
+    height: 4px;
+}
+.title {
+    margin-left: 40px;
+    justify-items: center;
+    height: 55px;
+}
+.toolBar {
+    background-Image: url('inputBackground.jpg');
+}
+.userInterface {
+    align-content: center;
+    margin-top: 100px;
+}
+.mapPaper {
+    height: 524px;
+    width: 480px;
+    text-align: center;
+}
+.infoText {
+    margin: 10%;
+    color: white;
+}
+.logo {
+    margin-right: 4px;
+}
+.screen {
+    background-Image: url('sailing.jpg');
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    background-Size: cover;
+}
